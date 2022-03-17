@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mario/RiderProjects/NorthWind/NorthWind.Sales.Dtos/NorthWind.Sales.Dtos.csproj",
+      "projectUniqueName": "/Users/mario/RiderProjects/NorthWind/src/NorthWind.Sales.Dtos/NorthWind.Sales.Dtos.csproj",
       "projectName": "NorthWind.Sales.Dtos",
-      "projectPath": "/Users/mario/RiderProjects/NorthWind/NorthWind.Sales.Dtos/NorthWind.Sales.Dtos.csproj",
+      "projectPath": "/Users/mario/RiderProjects/NorthWind/src/NorthWind.Sales.Dtos/NorthWind.Sales.Dtos.csproj",
       "packagesPath": "/Users/mario/.nuget/packages/",
-      "outputPath": "/Users/mario/RiderProjects/NorthWind/NorthWind.Sales.Dtos/obj/",
+      "outputPath": "/Users/mario/RiderProjects/NorthWind/src/NorthWind.Sales.Dtos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mario/.nuget/NuGet/NuGet.Config"

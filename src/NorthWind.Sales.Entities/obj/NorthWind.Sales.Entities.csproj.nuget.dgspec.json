@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mario/RiderProjects/NorthWind/NorthWind.Sales.Entities/NorthWind.Sales.Entities.csproj": {}
+    "/Users/mario/RiderProjects/NorthWind/src/NorthWind.Sales.Entities/NorthWind.Sales.Entities.csproj": {}
   },
   "projects": {
-    "/Users/mario/RiderProjects/NorthWind/NorthWind.Sales.Entities/NorthWind.Sales.Entities.csproj": {
+    "/Users/mario/RiderProjects/NorthWind/src/NorthWind.Sales.Entities/NorthWind.Sales.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mario/RiderProjects/NorthWind/NorthWind.Sales.Entities/NorthWind.Sales.Entities.csproj",
+        "projectUniqueName": "/Users/mario/RiderProjects/NorthWind/src/NorthWind.Sales.Entities/NorthWind.Sales.Entities.csproj",
         "projectName": "NorthWind.Sales.Entities",
-        "projectPath": "/Users/mario/RiderProjects/NorthWind/NorthWind.Sales.Entities/NorthWind.Sales.Entities.csproj",
+        "projectPath": "/Users/mario/RiderProjects/NorthWind/src/NorthWind.Sales.Entities/NorthWind.Sales.Entities.csproj",
         "packagesPath": "/Users/mario/.nuget/packages/",
-        "outputPath": "/Users/mario/RiderProjects/NorthWind/NorthWind.Sales.Entities/obj/",
+        "outputPath": "/Users/mario/RiderProjects/NorthWind/src/NorthWind.Sales.Entities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mario/.nuget/NuGet/NuGet.Config"

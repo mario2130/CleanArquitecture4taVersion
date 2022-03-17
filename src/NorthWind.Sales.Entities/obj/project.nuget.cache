@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bvGWhjG5Ya8NiH6E1QydyFWTzgFcdTsFoZvm9Qj4SAGpLdB586cIztgxNFvME6bfullFC/kIEkshwOBy1sWJcA==",
+  "dgSpecHash": "JUUxfC/5eoOsZacP+wqLEg94S1t8FloZLNqMwdRHwKA5R15cEypAyzDmHdJQOGlaRxDBW74LrNEDZE7FZ2OgUg==",
   "success": true,
-  "projectFilePath": "/Users/mario/RiderProjects/NorthWind/NorthWind.Sales.Entities/NorthWind.Sales.Entities.csproj",
+  "projectFilePath": "/Users/mario/RiderProjects/NorthWind/src/NorthWind.Sales.Entities/NorthWind.Sales.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
